@@ -13,7 +13,7 @@ A parallel news cycle highlighted the increasing appeal of environmental impact 
 - Unpacking the roles played by participants in these strategies and the structures that deliver private investment to projects
 - Providing examples and lessons learned from existing finance collaborations
 
-## Why Private Finance?
+## Why Conservation Finance?
 
 Impact investment, outcomes-based finance packages, private-public partnerships, and other strategies to access private capital are, in some ways, variations on a time-tested model for accessing the capital needed to fund community infrastructure. Many water agencies have traditionally issued bonds to borrow the money needed to finance sewer systems, water treatment facilities, and other hard infrastructure. Debt-financing these investments has many advantages, including immediate access to the full amount of money needed for projects, reduced upfront costs compared to paying cash for projects, and inter-generational equity that spans repayment across the lifespan of the project. In addition, debt financing may reduce impacts on water rate payers. 
 
