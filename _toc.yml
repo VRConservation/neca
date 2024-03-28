@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 chapters:
-- file: road
-- file: primer
-- file: fire
-- file: water
+- file: 1_primer
+- file: 2_fire
+- file: 3_water
+- file: 4_road
