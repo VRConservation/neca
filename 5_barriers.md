@@ -1,12 +1,10 @@
 # Barriers
 
-# Barriers
-
-**Navigating real and perceived impediments to financing natural water**
+**Navigating real and perceived impediments to conservation finance**
 
 Photo: Rich Walkling
 
-## Barriers. Obstacles. Challenges.
+## Background
 
 The pathway to adopting an outcomes-based financing solution has promise for many natural infrastructure
 projects, but it is paved with many barriers, obstacles, and challenges. Understanding these, and discerning
@@ -25,32 +23,30 @@ In our conversations with financing experts and project developers who have opte
 finance approaches, we’ve come to recognize three types of challenges that have an outsized effect on
 successfully securing financing:
 
-## Securing Project Payors
+## Securing Payors
 
 - Infrastructure investments, including nature-based approaches, typically need a public agency to be the
     primary responsible payor. Spending by these agencies is most effectively motivated by the need to meet
     a regulatory or other mandate. Even then, statutory, or regulatory restrictions may limit the types of
     infrastructure in which an agency may invest.
 
-## Understanding and Allocating Acceptable Levels of Risk
+## Risk
 
-- There is low institutional tolerance for risk in the collaborative finance arena, meaning that resolving real
-    or perceived risk can be a significant challenge to adopting unfamiliar technologies or finance
-    mechanisms. Supporters of a project need to consider the tolerance for risk that each stakeholder has,
-    and design both the project and financing in ways that satisfactorily address those risk perceptions. For
-    example, a stormwater management agency may be reluctant to invest in a comprehensive green
-    infrastructure program because it isn’t sure that the associated projects will meet its regulatory
-    obligations and the private-public partnership being suggested to implement the program is an unfamiliar
-    approach to contracting. A pay-for-performance structure that ties repayment to achievement of
-    specified water quality goals or volume of stormwater treated may be a step toward overcoming the
-    agency’s resistance.
+There is low institutional tolerance for risk in the collaborative finance arena, meaning that resolving real    or perceived risk can be a significant challenge to adopting unfamiliar technologies or finance mechanisms. Supporters of a project need to consider the tolerance for risk that each stakeholder has,
+and design both the project and financing in ways that satisfactorily address those risk perceptions. For
+example, a stormwater management agency may be reluctant to invest in a comprehensive green
+infrastructure program because it isn’t sure that the associated projects will meet its regulatory
+obligations and the private-public partnership being suggested to implement the program is an unfamiliar
+approach to contracting. A pay-for-performance structure that ties repayment to achievement of
+specified water quality goals or volume of stormwater treated may be a step toward overcoming the
+agency’s resistance.
 
-## Identifying and Measuring Outcomes
+## Measuring Outcomes
 
-- When the structure of a financing arrangement is focused on delivery of a project’s outcomes, it becomes
-    crucially important to identify and measure these outcomes in manners that speak to the concerns of the
-    payor agency. Outcome measurement, and communication about outcomes, must be responsive to
-    agency input and concerns, rather than pulled from a standard template. Metrics that are accepted across the collaborative stakeholder group can help with aligning interests and investments.
+When the structure of a financing arrangement is focused on delivery of a project’s outcomes, it becomes
+crucially important to identify and measure these outcomes in manners that speak to the concerns of the
+payor agency. Outcome measurement, and communication about outcomes, must be responsive to
+agency input and concerns, rather than pulled from a standard template. Metrics that are accepted across the collaborative stakeholder group can help with aligning interests and investments.
 
 While described here as separate issues, they are actually closely intertwined. Resolving one may require the
 project’s proponents and stakeholders to consider and address all three. For example, a water supply or flood
@@ -66,17 +62,16 @@ and so project stakeholders are advised to consider them in designing both the p
 
 ## Funding
 
-- Repayment revenue. Perennially a limitation on water infrastructure projects, collaborative finance
-    strategies also depend on identifiable, sustainable revenue streams that can be allocated to repayment of
-    debt obligations. The expectation is that at least some investment repayment will come from the
-    sponsoring/payor agency; an advantage of collaborative finance approaches is that multiple repayment streams may be assembled.
+Repayment revenue. Perennially a limitation on water infrastructure projects, collaborative finance
+strategies also depend on identifiable, sustainable revenue streams that can be allocated to repayment of
+debt obligations. The expectation is that at least some investment repayment will come from the
+sponsoring/payor agency; an advantage of collaborative finance approaches is that multiple repayment streams may be assembled.
 
-- Funding limitations. State or federal grant or loan programs can be important components of a portfolio
-    of repayment funds. However, these programs often have restrictions that limit their applicability, for
-
-**example, barring repayment of interest on private investments.**
+Funding limitations. State or federal grant or loan programs can be important components of a portfolio
+of repayment funds. However, these programs often have restrictions that limit their applicability, for example, barring repayment of interest on private investments.
 
 ## Sociopolitical Challenges
+Sociopolitical challenges are many:
 
 - Lack of familiarity. Collaborative finance strategies involve outcomes-based or other non-traditional financing structures which are frequently unfamiliar to typical project proponents and developers.
 
@@ -93,7 +88,7 @@ and so project stakeholders are advised to consider them in designing both the p
 - Trust. Successfully developing and deploying an outcomes-based financing method requires collaboration
     between a range of stakeholders. Unless there is positive history between these entities and individuals, progress may be frustrated by lack of comfort, lack of trust, and lack of familiarity.
 
-## Finance-related
+## Finance
 
 - Avoided Cost Basis. Difficulties in quantifying avoided infrastructure and maintenance costs lead to unwillingness/impossibility of using this basis for project approval and financing.
 
@@ -123,53 +118,32 @@ the looming challenges:
     and societal landscape is key to implementing collaboratively financed projects. This support can translate
     into widespread buy-in and multi-faceted financing.
 
-## Resolving Challenges in Real Time
+## Challenge resolution
 
 With this short catalogue of potential resolutions in hand, let’s explore how these themes come into play across
 the various stages of project’s timespan. With careful planning, deep engagement across the stakeholders, and
 some creativity these challenges can be overcome.
 
-## Conceptual Stage
-
-It can be valuable to identify potential financing strategies even at the earliest stages in the development of an
-eventual project, when the initial stakeholders have identified a problem in need of a solution but haven’t yet
-clarified what that solution may be. However, at this point, it’s likely that few stakeholders will have a working
-grasp of outcomes-based approaches that may be relevant. Some foundation-laying education may be important,
+- **Conceptual Stage**. It can be valuable to identify potential financing strategies even at the earliest stages in the development of an eventual project, when the initial stakeholders have identified a problem in need of a solution but haven’t yet clarified what that solution may be. However, at this point, it’s likely that few stakeholders will have a working grasp of outcomes-based approaches that may be relevant. Some foundation-laying education may be important,
 including introductory level presentations by outside experts. This level of engagement can help to socialize
 available concepts within the stakeholder group and begin building relationships with potential partners and
 finance providers.
 
-## Project Identification/Design
-
-As the project advances to a preliminary design stage, discussions amongst the stakeholders should turn to
-identifying the intended outcomes of the project, including co-benefits. These outcomes can be linked to the
-mission or values of one or more stakeholders and may be the basis for financial investment in the project. At the
-same time, it can be helpful to agree upon metrics that indicate successful realization of the desired outcomes
+- **Design**. As the project advances to a preliminary design stage, discussions amongst the stakeholders should turn to identifying the intended outcomes of the project, including co-benefits. These outcomes can be linked to the mission or values of one or more stakeholders and may be the basis for financial investment in the project. At the same time, it can be helpful to agree upon metrics that indicate successful realization of the desired outcomes
 and evaluation strategies that can provide an acceptable measurement of the outcomes and benefits.
 
-## Advancing the Project: Role Assignment
-
-With project design and desired outcomes/benefits in hand, a stakeholder group may turn to identifying likely
-payors and investors in the project. Noting the difference in these roles. Payors are entities that agree to
-contribute funding without expectation of repayment, e.g., a water utility or special district with a regulatory
+- **Role Assignment**. With project design and desired outcomes/benefits in hand, a stakeholder group may turn to identifying likely payors and investors in the project. Noting the difference in these roles. Payors are entities that agree to contribute funding without expectation of repayment, e.g., a water utility or special district with a regulatory
 obligation linked to a project outcome. Investors, on the other hand, may be motivated by one or more of the
 project’s benefits to provide funding but with an expectation of repayment. This repayment may or may not
 include some amount of interest in addition to the amount of capital provided.
 
-## Project Implementation
-
-As the project moves into implementation, a credible, neutral third party may be brought on as a project
-administrator / implementation manager. Engaging a third party can not only relieve the payor(s) of daily
+- **Implementation**. As the project moves into implementation, a credible, neutral third party may be brought on as a project administrator / implementation manager. Engaging a third party can not only relieve the payor(s) of daily
 implementation burdens but may be able to provide or locate financing for the project. For example, some public-
 private partnerships are built around project developers who not only undertake implementation tasks but
 deliver project finance.[^2] Bringing in a trusted implementation partner can reduce some of the risks otherwise
 carried by the public utilities leading the project by providing cost-effective, expert project management.
 
-## Evaluation and Communication
-
-Finally, as the project begins to deliver benefits, reach agreed upon milestones, or is completed, a trusted
-evaluator can ascertain whether metrics are being met and outcomes-based payments are appropriate. Credible
-evaluation reduces risks for the payor and investors and is also valuable in providing information to help
+- **Evaluation & Communication**. Finally, as the project begins to deliver benefits, reach agreed upon milestones, or is completed, a trusted evaluator can ascertain whether metrics are being met and outcomes-based payments are appropriate. Credible evaluation reduces risks for the payor and investors and is also valuable in providing information to help
 communicate the value of the project to all stakeholders.
 
 ## Concluding Thoughts
@@ -190,7 +164,7 @@ avenues of action to bring new innovations to fruition. The compelling pressures
 investment in resilient communities and water systems couple with stretched public budgets makes the case of
 resolving challenges to ‘innovative’ financing.
 
-## Collaborative Finance Series
+### Collaborative Finance Series
 
 This finance barriers blog is part three of a series of blogs on collaborative finance. Part one, Finding the Pathway
 outlines the steps to collaborative finance. In part two of the series, we provide a primer on alternative

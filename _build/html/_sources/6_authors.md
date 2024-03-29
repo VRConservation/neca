@@ -6,18 +6,7 @@
 :name: jeff
 ```
 
-**Jeff Odefey** is Director of Water Policy for One Water Econ. 
-He leads multi-disciplinary efforts to promote integrated management 
-of water resources through progressive regulation, sustainable financing, 
-market-based mechanisms, and policy reforms. His work focuses on green 
-infrastructure, water conservation, and integrated water management as 
-pathways to preserve and protect healthy waters and communities. Many of 
-his efforts have been directed as fostering resilient water management 
-policies and programs in the Lower Colorado River Basin. His experience 
-includes stints as a staff attorney for Waterkeeper Alliance and for 
-Hudson Riverkeeper. Jeffrey holds a B.A. in English and Art History from 
-the University of Colorado, an M.A. from the University of Montana, and 
-is a magna cum laude graduate of the Pace University School of Law. 
+**Jeff Odefey** is Director of Water Policy for One Water Econ. He leads multi-disciplinary efforts to promote integrated management of water resources through progressive regulation, sustainable financing, market-based mechanisms, and policy reforms. His work focuses on green infrastructure, water conservation, and integrated water management as pathways to preserve and protect healthy waters and communities. Many of his efforts have been directed as fostering resilient water management policies and programs in the Lower Colorado River Basin. His experience includes stints as a staff attorney for Waterkeeper Alliance and for Hudson Riverkeeper. Jeffrey holds a B.A. in English and Art History from the University of Colorado, an M.A. from the University of Montana, and is a magna cum laude graduate of the Pace University School of Law. 
 
 ```{image} /photos/vance.jpg
 :height: 400px

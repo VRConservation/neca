@@ -14,7 +14,7 @@ Reducing these harmful conditions will require forest health and restoration sol
 
 Together with partners and a literature review, we created a simplified situation model connecting uncharacteristic fire results from fire suppression on public and private lands exacerbated by climate change (Figure 1).[^2] To enable solutions that effectively address these challenges, we then linked interventions, interim results, and outcomes (Figure 2). The treatments identified in the results chain focus on local-level interventions such as thinning, biomass utilization, and prescribed fire.[^3] Although based on a widely agreed upon forest restoration interventions, the models explicitly show the links between wildfire, forest health and beneficial outcomes.
 
-## SOLUTIONS
+## Solutions
 
 Walking the talk and progressing from models to solutions is a significant hurdle, especially at the landscape scale. Proposed solutions to reduce the negative impacts of wildfires generally fall into three buckets: funding,
 scaling, and capacity, although each local situation is nuanced and contains different approaches.
@@ -80,9 +80,9 @@ creating programs to address this for work as varies as forestry to truck drivin
 Community College started a forestry program teaming with the California Conservation Corps and local
 agencies, and Shasta College has an associate in science degree in forest science and technology. 
 
->“The CCC’s partnership with education institutions is extraordinarily beneficial and one we aim to replicate across the state,” said CCC Director Bruce Saito. “It’s a huge benefit to our Corpsmembers, who get exposure to college and degree programs that can help them launch great paying and meaningful careers in forestry and other fields. Together we’re helping develop a highly-trained workforce.”
+>“The CCC’s partnership with education institutions is extraordinarily beneficial and one we aim to replicate across the state. It’s a huge benefit to our Corpsmembers, who get exposure to college and degree programs that can help them launch great paying and meaningful careers in forestry and other fields. Together we’re helping develop a highly-trained workforce.” California Conservation Corps Director, Bruce Saito
 
-## PARTING THOUGHTS
+## Parting Thoughts
 
 Capacity, scale, and funding will not be the only items needed to change California and the West’s wildfire situation. Policy change, community health, increased private sector engagement, and more diversified equity and cultural approaches are needed to surmount this life-threatening situation. Volatile forest conditions will not change overnight, but perhaps future disasters can be avoided by considering how existing and new
 approaches to mitigate adverse conditions can be exponentially ramped up and coordinated throughout the Western United States.
