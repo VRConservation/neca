@@ -1,6 +1,6 @@
 # Water Finance
 
-**Because It’s Worth It: New Approaches to Delivering Sustainable Water Infrastructure for Disadvantaged California Cities**
+**New Approaches to Delivering Sustainable Water Infrastructure**
 
 
 ## Executive Summary
@@ -40,7 +40,7 @@ Innovative financing approaches are increasingly necessary if our communities an
 implement the scale of adaptation projects needed in this era of increasing environmental and water supply
 challenges, wildfire risk and stretched public budgets.
 
-## Water Infrastructure Challenges
+## WChallenges
 
 Economically disadvantaged communities in Northern California, and their water utilities, face a range of water
 infrastructure challenges. These challenges are increasingly exacerbated by the effects of climate change and
@@ -49,7 +49,7 @@ economic / demographic pressures.
 (^1) vance.russell@outlook.com and jodefey@americanrivers.org. Authors welcome feedback, comments and stories on how you may have
 incorporated these ideas into your work at the corresponding addresses listed for each author.
 
-### Drinking Water Infrastructure
+### Drinking Water
 
 While the paramount concern for many DAC water system operators is their aging drinking water infrastructure,
 other communities rely on groundwater sources that have high levels of arsenic, nitrates or other contaminants.
@@ -57,7 +57,7 @@ These challenges are exacerbated by small ratepayer populations and perceived le
 increases that combine to make it difficult to raise sufficient revenue to fund replacement or rehabilitation of
 failing systems through traditional budgetary approaches.
 
-### Wastewater Treatment Infrastructure
+### Wastewater Treatment
 
 Wastewater systems in DACs experience collection system breakages and disrepair that result in raw sewage
 leaks and high maintenance costs. Outdated treatment systems may be inadequately sized to meet contemporary
@@ -76,14 +76,14 @@ and environmental benefits from implementing green stormwater management, the ca
 projects of this type is often lacking. Even when funding is available from state and federal sources, competition
 for grants can be fierce.
 
-### Watershed Health and Fire Risk Reduction
+### Watershed Health and Fire
 
 Water agencies are increasingly concerned about the health of headwaters forests. Catastrophic wildfires and
 their follow-on impacts can seriously threaten the security of these source waters, risks that can be mitigated
 through forest thinning and restoration projects. Post-disaster projects often result in considerable avoided costs
 while delivering additional benefits.
 
-## Non-traditional Financing for Water Systems
+## Non-traditional Financing
 
 Recognizing that public funding will never be sufficient to meet water infrastructure investment demand, there is
 a growing interest in engaging the comparatively greater resources within the private sector. Private investors,
@@ -102,33 +102,18 @@ outcomes, the investment may also create additional social, economic or environm
 benefit the participating community. The performance payout may be tied to achieving local business
 development, employment or poverty reduction goals.
 
-
-## Environmental Impact Bond Case Studies
+## Cases
 
 In the following section we review several of the growing number of environmental impact bonds that have been
 successfully negotiated throughout the country. Most are still at the implementation stages, but they
 demonstrate the broad applicability and flexibility of this potential solution to varying situations.
 
-### North Yuba River Watershed Forest Resilience Bond
+### North Yuba River
 
-Blue Forest Conservation launched its
-first Forest Resilience Bond pilot in
-2018, raising $4 million for a $4.
-million project to restore 15,000 acres
-of California’s North Yuba River
-Watershed. The repayment of the $
-million investment came from
-reimbursable grants awarded by CAL
-FIRE, retained receipts from the US
-Forest Service, and a commitment
-from the Yuba Water Agency to make
-annual payments for 5 years (Figure
-1). The structure of the Forest
-Resilience Bond offered a compelling
-investment opportunity and a chance to diversify CSAA’s and Calvert’s portfolio, especially as future bonds come
+Blue Forest Conservation launched its first Forest Resilience Bond pilot in 2018, raising $4 million for a $4. million project to restore 15,000 acres of California’s North Yuba River Watershed. The repayment for the original investment came from reimbursable grants awarded by CAL FIRE, retained receipts from the US Forest Service, and a commitment from the Yuba Water Agency to make annual payments for 5 years (Figure 1). The structure of the Forest Resilience Bond offered a compelling investment opportunity and a chance to diversify CSAA’s and Calvert’s portfolio, especially as future bonds come
 to market (Convergence, 2020).
 
-### Colorado Wildfire Mitigation Environmental Impact Fund
+### Colorado Wildfire Mitigation
 
 Past fire suppression policies, drought conditions and beetle-infested forests have increased the threat of wildfire
 Southwest Colorado. Quantified Ventures’ Wildfire Mitigation Environmental Impact Fund is utilizing funding from
@@ -139,9 +124,7 @@ reinvests proceeds into additional projects ensuring that capital
 is available for long-term re-treatment and/or expansion of
 forest health interventions.
 
-### City of Atlanta Green Infrastructure Environmental Impact
-
-### Bond
+### Green Infrastructure Bond
 
 The City of Atlanta’s Department of Watershed Management
 worked with Quantified Ventures to develop a publicly offered
@@ -155,29 +138,12 @@ upfront investment in projects that are calculated to deliver $
 million in environmental and economic benefits derived from
 reduced flooding and increased water quality.
 
-#### QUANTIFIED VENTURES
 
-```
-Many of the case studies discussed in
-this section were developed by
-Quantified Ventures, a private impact
-investment firm that has significantly
-pioneered environmental impact bonds
-in the United States. Because of their
-interest in promoting the environmental
-impact bond approach, information
-about Quantified Ventures projects is
-readily available. There are other
-environmental impact bond developers
-who have realized success in social
-services rather than water-related
-services.
-```
-```
+
 Figure 1. General Forest Resilience Bond model (©Blue Forest Conservation).
-```
 
-### Baileys Trail System Environmental Impact Bond
+
+### Baileys Trail System
 
 The Baileys Trail System is a proposed 88-mile, premier mountain biking trail system in Athens County, Ohio, in
 the Wayne National Forest. Through increased visitation, the trail system is proposed to revitalize one of the
@@ -185,7 +151,7 @@ poorest and most underserved counties in Ohio. Private investment is providing t
 with repayment tied to the successful achievement of the economic development outcomes, in this case
 increased sales tax and transient guest taxes (Quantified Ventures, 2018).
 
-## Community Based Public-Private Partnerships
+## Public Private Partnerships
 
 In addition to environmental impact bonds, other methods for attracting private capital may be suitable for SRFA
 DACs. A particularly interesting model in the stormwater management and stream restoration arena is a
@@ -194,7 +160,7 @@ established public-private partnerships model and modify it by tying payment to 
 and social outcomes that benefit the community and increase stakeholder engagement in project delivery
 (Adaptation Clearinghouse, 2020).
 
-### City of Salinas
+### Salinas
 
 In 2019, the City of Salinas took Initial steps to set up a thirty-year Design-Build-Finance-Operate community-
 based public-private partnership. This program is intended to implement and maintain green stormwater
@@ -203,37 +169,17 @@ environmental and social metrics that will serve as the performance measures for
 planning an initial investment of $50 million depending on the establishment of a stormwater utility, or
 alternatively a cohesive, low-cost and responsible financing approach.
 
-### Prince George’s County, MD
+### Prince George’s County
 
-In March 2015, Prince George's County, Maryland
-created the Clean Water Partnership, a
-community-based public-private partnership to
-retrofit up to 4,000 acres of impervious surfaces
-using green infrastructure features (Figure 2). The
-Partnership provides up to 40% of the County’s
-compliance costs upfront, enabling projects to
-begin sooner and removing much of the
-reimbursement challenges typically encountered
-with public funding. It also greatly reduces the
-County’s administration and procurement costs by
-up to 80%. The agreement requires small and
-minority-powered businesses to be contracted for
-up to 40% of the total project, creating a
-projected 5,000 jobs.
+In March 2015, Prince George's County, Maryland created the Clean Water Partnership, a community-based public-private partnership to retrofit up to 4,000 acres of impervious surfaces using green infrastructure features (Figure 2). The
+Partnership provides up to 40% of the County’s compliance costs upfront, enabling projects to begin sooner and removing much of the reimbursement challenges typically encountered with public funding. It also greatly reduces the County’s administration and procurement costs by up to 80%. The agreement requires small and minority-powered businesses to be contracted for up to 40% of the total project, creating a projected 5,000 jobs.
 
-## Enhanced Infrastructure Financing Districts
+## EIFDs
 
-Enhanced Infrastructure Financing Districts are a recent evolution of the tax increment financing tools previously
+Enhanced Infrastructure Financing Districts (EIFDs) are a recent evolution of the tax increment financing tools previously
 developed in California. They support financing infrastructure projects with anticipated increased property tax
 revenues associated with the future benefits of the projects (Lefcoe, 2014). Revenues from Enhanced
-Infrastructure Financing Districts can be used for public works, transportation, parks, libraries and water and
-
-```
-Figure 2. Prince George’s County community-based public private partnership
-(Adapted from Baker, 2017).
-```
-
-sewer facilities—with an emphasis on sustainable community
+Infrastructure Financing Districts can be used for public works, transportation, parks, libraries and water and sewer facilities—with an emphasis on sustainable community
 goals under California’s landmark climate legislation (Flint,
 2018 ). Recent revisions to the Enhanced Infrastructure
 Financing District law reduced some of the challenges to
@@ -247,17 +193,13 @@ Infrastructure Financing District may be one option for
 repaying the investment used to secure an environmental
 impact bond.
 
-## Part Three: Impact Investment—Putting Lessons into Practice
+Figure 2. Prince George’s County community-based public private partnership
+(Adapted from Baker, 2017).
 
-Adopting a suitable approach for a specific set of projects will
-be critical to the success of developing a new environmental impact bond or other suitable financing approach.
-Ideally, the process of determining an appropriate financing approach begins early, with an effort to fully
-articulate the relationship between the water-related challenge faced by the utility and the outcomes the utility
-seeks to attain. An initial feasibility study can be tailored to identify the full suite of benefits and beneficiaries
-associated with a water infrastructure project. Collaboration is a key ingredient in building a successful financing
-package − water system investments should not be thought of as stand-alone projects undertaken solely by a
-water agency but as partnerships between the agency, members of the community and an appropriate portfolio
-of investors.
+
+## Lessons into Practice
+
+Adopting a suitable approach for a specific set of projects will be critical to the success of developing a new environmental impact bond or other suitable financing approach. Ideally, the process of determining an appropriate financing approach begins early, with an effort to fully articulate the relationship between the water-related challenge faced by the utility and the outcomes the utility seeks to attain. An initial feasibility study can be tailored to identify the full suite of benefits and beneficiaries associated with a water infrastructure project. Collaboration is a key ingredient in building a successful financing package − water system investments should not be thought of as stand-alone projects undertaken solely by a water agency but as partnerships between the agency, members of the community and an appropriate portfolio of investors.
 
 A partnership approach is essential to assembling a portfolio of diverse funding and financing sources. Agency and
 non-profit partners may be eligible for state, federal and philanthropic grants. Partners with sufficient financial
@@ -280,9 +222,7 @@ partnership, that consists of the following steps:
 8. Communicate and share results
 9. Iterate (return to step 1)
 
-#### SACRAMENTO REGION EIFD EXAMPLE
-
-```
+>SACRAMENTO REGION EIFD
 In 2017, the city of West Sacramento
 became one of the first California cities
 to take advantage of the new Enhanced
@@ -296,95 +236,19 @@ spaces, sewage and stormwater
 infrastructure improvements and other
 projects that foster community
 revitalization and sustainability.
-```
 
-## Hypothetical Applications within Northern California DACs
+
+## Hypotheticals
 
 With these broad concepts in mind, the case studies presented above suggest several example applications of
 non-traditional financing to actual project needs. Water resource agencies and their communities will benefit
 from considering private investment approaches either to complement public sources of funding or to make up
 for unavailable public funds. The following table summarizes these examples.
 
+```{important} Add original table.
 ```
-Applications Funding Challenges Cases/Examples
-Multi-benefit green
-infrastructure
-```
-```
-Foundations, state/federal
-grants or loans
-```
-```
-Grant capacity, lack of
-foundation connection to
-municipalities
-```
-```
-City of Atlanta EIB, City of
-Buffalo
-```
-```
-Source water fire reduction and
-recovery
-```
-```
-Foundations, state/federal
-grants or loans, utilities,
-insurance companies, revolving
-loan fund
-```
-```
-Scale, partnerships, new idea Denver Water, City of Santa Fe,
-Rio Grande Water Fund
-```
-```
-Drinking water system
-upgrades
-```
-```
-Foundations, state/federal
-grants or loans, monetizing
-avoided costs
-```
-```
-Grant capacity, new idea Prince George's County,
-Wildfire Mitigation
-Environmental Impact Fund
-Wastewater system upgrades State/federal grants or loans,
-monetizing avoided costs
-```
-```
-Grant capacity, new idea City of Anderson,
-environmental impact bonds
-```
-```
-Water re-use for agricultural
-irrigation
-```
-```
-Water sales Develop business case Environmental impact bonds
-```
-```
-Groundwater sustainability Foundations, state/federal
-grants
-```
-```
-Funding, scale Groundwater Recharge
-Initiative^2
-```
-```
-Water system consolidation State/Fed grants leveraged
-with private funds
-```
-```
-Grant capacity, compliance
-challenges, public resistance
-```
-```
-Prince George's County, impact
-bonds
-```
-## Part Four: Recommendations
+
+## Recommendations
 
 What might municipalities, DAC water systems and others do to move a project or program forward and
 overcome key obstacles or challenges? We offer the following recommendations:
@@ -400,11 +264,6 @@ overcome key obstacles or challenges? We offer the following recommendations:
     sustainable funding portfolio that takes advantage of multiple private and public funding sources as well as
     grants vs. revenue generation. Self-sustained funding could also be based on the community foundation
     model.
-
-(^2) See Sustainable Conservation's technical resources page scrolling to the Water Sustainability section for an overview, guidance, tools and
-reports related to recharging groundwater.
-
-
 5. Develop regional innovation centers for new capacity, tech and funding. Regional centers could include
     training, access to funding and new technologies related to water infrastructure and restoration. An
     innovation center could also attract people to work in DAC communities.
@@ -424,5 +283,3 @@ reports related to recharging groundwater.
     assets such as carbon credits continues to gain traction and grow, forest land managers interested in non-
     timber forest revenue still view alternative finance sources as a value-add rather than a value driver (Bilhorn,
     2020 ).
-
-
