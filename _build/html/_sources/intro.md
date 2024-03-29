@@ -1,6 +1,13 @@
 # Introduction
 
-Welcome to the Northeast California Conservation Finance Book. The articles in this book and the underlying pilot project were originally supported by a California Department of Water Resources Integrated Regional Water Management Disadvantaged Community Involvement, Technical Assistance grant provided to the Yuba Water Agency. They have been updated and modified to apply to Northeast California.
+Welcome to the Northeast California Conservation Finance Book. The articles in this book and the underlying pilot project were originally supported by a California Department of Water Resources Integrated Regional Water Management Disadvantaged Community Involvement, Technical Assistance grant provided to the Yuba Water Agency. They have been updated and modified to apply to the Northeast California CALFRAME OPR project ({numref}`Figure %s <neca_aoi>`).
+
+```{figure} neca_map.jpg
+:height: 500px
+:name: neca_aoi
+
+NE CA CALFRAME area.
+```
 
 The foundational document to this series, [Because It's Worth It](https://srfadacip.com/wp-content/uploads/2022/05/Because-Its-Worth-It_final.pdf), spawned the additional articles and chapters contained in this book.
 
