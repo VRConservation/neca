@@ -20,17 +20,21 @@ More on Conservation Finance can be found at [Conservation Finance Issue Briefs]
 
 The book contains the following chapters:
 
-- **1. Primer**. Introduces conservation finance and provides examples and cases.
-- **2. Fire**. How conservation finance applies to fire and forest health.
-- **3. Water**. Examples and cases from water and stormwater management.
-- **4. NE CA Roadmap**. An updated version of the NE California Finance Roadmap and how NE CA can move towards leveraging public funds with private.
-- **5. Barriers**. The barriers to conservation finance, in particular, getting beyond their novelty.
+**1. Primer**. Introduces conservation finance and provides examples and cases.
+
+**2. Fire**. How conservation finance applies to fire and forest health.
+
+**3. Water**. Examples and cases from water and stormwater management.
+
+**4. NE CA Roadmap**. An updated version of the NE California Finance Roadmap and how NE CA can move towards leveraging public funds with private.
+
+**5. Barriers**. The barriers to conservation finance, in particular, getting beyond their novelty.
 
 ## Acknowledgements
 
 The authors offer particular thanks to JoAnna Lessard (Yuba Water Agency,) Todd Sloat (Hat Creek Lumber), Sharmie Stevenson (Fall River & Pit RCD ), Michelle Wolfgang (USFS), Jonas Epstein (USFS), Madison Kirshner (USFS), and Regine Miller (Headwaters Environmental, Inc.).
 
-==&&&& Add others as necessary==
+**&&&& Add others as necessary**
 
 ==Reviewers?==
 
