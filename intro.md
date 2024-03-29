@@ -6,13 +6,14 @@ The foundational document to this series, [Because It's Worth It](https://srfada
 
 ## Conservation Finance
 
-Conservation finance is a powerful mechanism that harnesses the synergy of private and public funds to generate sustainable revenues for forest health. Conservation finance:
-- Channels capital into forest management projects that offer overlapping ecological, social, and financial outcomes
+Conservation finance offers a groundbreaking approach to securing long-term, sustainable finance to landscape scale conservation and forest health projects. It fosters collaboration between private and public sectors, generating sustainable funding streams. This innovative strategy achieves multiple goals:
+
+- Channels capital into forest management projects that offer overlapping ecological, social, and financial outcomes.
 - Attracts private investment by quantifying ecosystem services to create a value proposition for beneficiaries, who in turn will pay for these benefits.
 - Utilizes partnerships to strengthen the financial foundation for restoration, reforestation, and post-fire recovery.
 - Reduces the burden on public budgets.
 - Increases the pace and scale at which these initiatives are completed.
-- Enables the long-term protection of forests and related natural resources, ensuring their invaluable benefits persist for future generations.
+- Enables the long-term protection of forests and related natural resources, ensuring their invaluable benefits persist for future generations.[^1]
 
 More on Conservation Finance can be found at [Conservation Finance Issue Briefs](https://onedrive.live.com/?authkey=%21APjkQ9H5YDscnhA&id=4201540284AEF10B%211694&cid=4201540284AEF10B), [USFS Conservation Finance Program](https://www.fs.usda.gov/working-with-us/partnerships/conservation-finance), [USFS R5 CFP](https://www.fs.usda.gov/detail/r5/landmanagement/?cid=FSEPRD602407), and [HELP](https://www.healthyeldorado.org/). Many other organizations specializing in or creating conservation finance programs and opportunities are cited throughout the book.
 
@@ -34,9 +35,12 @@ The book contains the following chapters:
 
 The authors offer particular thanks to JoAnna Lessard (Yuba Water Agency,) Todd Sloat (Hat Creek Lumber), Sharmie Stevenson (Fall River & Pit RCD ), Michelle Wolfgang (USFS), Jonas Epstein (USFS), Madison Kirshner (USFS), and Regine Miller (Headwaters Environmental, Inc.).
 
-**&&&& Add others as necessary**
 
-==Reviewers?==
+```{note}
+Add other acknowledgements and reviewers
+```
+
+[^1]: Madison Kirshner, USFS, personal communication.
 
 ```{tableofcontents}
 ```
