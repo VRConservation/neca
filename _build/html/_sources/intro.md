@@ -1,4 +1,4 @@
-# NE CA Conservation Finance
+# Introduction
 
 Welcome to the Northeast California Conservation Finance Book. The articles in this book and the underlying pilot project were originally supported by a California Department of Water Resources Integrated Regional Water Management Disadvantaged Community Involvement, Technical Assistance grant provided to the Yuba Water Agency. They have been updated and modified to apply to Northeast California.
 
