@@ -3,13 +3,23 @@
 
 format: jb-book
 root: intro
-options:  # The options key will be applied to all chapters, but not sub-sections
-  numbered: True
-chapters:
-- file: 1_primer
-- file: 2_fire
-- file: 3_water
-- file: 4_road
-- file: 5_barriers
-- file: 6_resources
-- file: 7_authors
+parts:
+  - caption: JPA
+    numbered: True
+    chapters:
+      - file: neca
+      - file: jpa
+  - caption: Fundamentals
+    numbered: True
+    chapters:
+      - file: 1_primer
+      - file: 2_fire
+      - file: 3_water
+      - file: 4_road
+      - file: 5_barriers
+      - file: 6_resources
+      - file: 7_authors
+  - caption: Appendices
+    numbered: True
+    chapters:
+      - file: references

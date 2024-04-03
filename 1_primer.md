@@ -1,4 +1,4 @@
-# Con Fi Primer
+# Primer
 
 **Understanding New Models for Accessing Private Investment**
 
@@ -41,6 +41,8 @@ stormwater infrastructure projects in Atlanta, the District of Columbia; the Nor
 leveraging multiple investments to deliver forest restoration work across tens of thousands of acres in a fire-
 threatened California watershed.
 
+![sac valley](https://i.imgur.com/MpFX6zi.png)
+
 ## Private Investment in Action
 
 There isn’t a one-size-fits-all approach to developing a locally relevant private finance strategy, but some key elements appear in many of the pioneering examples in this field. At a most basic level, private finance of water infrastructure requires relationships between _stakeholders_ or _beneficiaries_ who can participate in the planning and initiation of
@@ -52,14 +54,14 @@ Photo: American Rivers
 
 Let’s take these roles in turn.
 
-Collaboratives. Often, successfully planned, financed, and implemented projects succeed because they are
+**Collaboratives**. Often, successfully planned, financed, and implemented projects succeed because they are
 informed and supported by a collaboration of affected beneficiaries or stakeholders. These individuals and
 organizations can ground a project in the needs of the surrounding community, contribute expertise and
 perspectives that inform project design and implementation, and contribute social capital that leads to political
 support for the project. This support can translate into opened opportunities for funding, investment, and other
 forms of support.
 
-Investors. Federal or state agencies may contribute partial funding for a project or provide various forms of
+**Investors**. Federal or state agencies may contribute partial funding for a project or provide various forms of
 financing support such as credit guarantees, credit enhancement or loss reserves, or technical assistance.
 Investors can come from many sectors. For instance, insurance companies, retirement funds, university
 endowments, and institutional investors may offer below-market interest rates if a project meets their
@@ -69,14 +71,12 @@ philanthropic foundations may be available to invest in projects that fulfill th
 benefit of private finance strategies is the potential to blend multiple investment sources into one project
 portfolio, perhaps even sequencing these sources of financing to discrete phases of a project.
 
-Payors. Ultimately, projects must be paid for, and investors repaid for the financing they provide. Often, this
+**Payors**. Ultimately, projects must be paid for, and investors repaid for the financing they provide. Often, this
 repayment obligation will fall on a public water agency, or other governmental body, with an operational or
 ownership interest in the proposed project. Agencies with a regulatory or other driver that compels their interest
 in the benefits of a project will be the most ‘secure’ payors. However, other forces may motivate agencies,
 institutions, even businesses to pay for (or contribute toward) the outcomes associated with a successful project.
-Corporations with sustainability, resilience, or environmental justice commitments are equally driven to invest in
-projects that provide beneficial outcomes. Economic development agencies and entities may have funding to
-contribute to projects that meet local job creation or business engagement goals.
+Corporations with sustainability, resilience, or environmental justice commitments are equally driven to invest in projects that provide beneficial outcomes. Economic development agencies and entities may have funding to contribute to projects that meet local job creation or business engagement goals.
 
 Combining all these actors into a financing package keyed to a natural infrastructure project may be less
 straightforward than the pathway to traditional bond issuance and is certainly more complicated than simple cash
@@ -97,21 +97,20 @@ track illustrated below. Noteworthy in this outcomes-based repayment scheme is t
 evaluator. Five years after launching the project, the evaluator confirmed that stormwater runoff had been
 reduced by nearly 20%, a level that met the bond’s base-level repayment criteria.[^4]
 
+![qv](https://i.imgur.com/4CSz1UP.png)
 
-Credit: Quantified Ventures
-
-
-Blue Forest Conservation’s Forest Resilience Bond adopts a somewhat different approach. The Bond, more of a
+Blue Forest's Forest Resilience Bond adopts a somewhat different approach. The Bond, more of a
 revolving loan instrument, is not strictly speaking an outcomes-based financing strategy. The payor for the
 project, Yuba Water Agency, makes payments to investors that are not linked to achieving any of the project’s
 many benefits. The structure adopted by Blue Forest enables the creation of a portfolio of investors and funders
 who repay and complement the Agency’s funding.
 
+![](https://i.imgur.com/uNOuEG3.png)
+
 In the above diagram, the investors (Calvert Impact Capital, AAA Insurance, and others) provide up-front capital
 by paying into the Forest Resilience Bond. This aggregate fund, administered by the National Forest Foundation,
 pays contractors and local NGOs to plan and deliver forest and watershed restoration activities. Once completed,
 Yuba Water Agency (the beneficiary) repays implementation costs to the fund, which repays the investors.
-
 
 ## Additional Case Studies
 
@@ -124,7 +123,8 @@ District. Through this program, the partnership secured $75 million in financing
 will enable Corvias to design and construct green infrastructure projects that will help MMSD meet its
 regulatory goals. The outcomes-based partnership commits the District to pay a fixed cost per gallon to
 Corvias, with the ultimate target of installing 8.45 million gallons of stormwater retention capacity.
- Several municipalities in California pioneered Enhanced Infrastructure Financing Districts to leverage the
+
+>Several municipalities in California pioneered Enhanced Infrastructure Financing Districts to leverage the
 value of infrastructure improvements as the collateral for obtaining the resources to implement these
 projects.[^5] Using a technique also referred to as tax increment financing, this approach allows water
 agencies and municipal governments to issue bond debt for projects that will be repaid by future
