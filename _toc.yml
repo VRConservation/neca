@@ -5,7 +5,7 @@ format: jb-book
 root: intro
 parts:
   - caption: JPA
-    numbered: True
+    numbered: False
     chapters:
       - file: neca
       - file: jpa
