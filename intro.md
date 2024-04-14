@@ -13,6 +13,8 @@ The foundational document to this series, [Because It's Worth It](https://srfada
 
 ## Conservation Finance
 
+With the wild swings in public fund availability businesses, nonprofits, and agencies are looking for sustainable funding models and approaches that leverage both public and private investments in natural resource conservation and infrastructure. 
+
 Conservation finance offers a groundbreaking approach to securing long-term, sustainable finance to landscape scale conservation and forest health projects. It fosters collaboration between private and public sectors, generating sustainable funding streams. This innovative strategy achieves multiple goals:
 
 - Channels capital into forest management projects that offer overlapping ecological, social, and financial outcomes.
@@ -37,6 +39,8 @@ The book contains the following chapters:
 **4. NE CA Roadmap**. An updated version of the NE California Finance Roadmap and how NE CA can move towards leveraging public funds with private.
 
 **5. Barriers**. The barriers to conservation finance, in particular, getting beyond their novelty.
+
+**6. Resources**. A curated list of resources for conservation finance.
 
 ## Acknowledgements
 
