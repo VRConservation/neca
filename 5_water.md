@@ -1,7 +1,6 @@
-# Water Finance
+# Water
 
 **New Approaches to Delivering Sustainable Water Infrastructure**
-
 
 ## Executive Summary
 

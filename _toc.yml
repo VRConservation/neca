@@ -5,21 +5,21 @@ format: jb-book
 root: intro
 parts:
   - caption: JPA
-    numbered: False
+    numbered: True
     chapters:
-      - file: neca
-      - file: jpa
+      - file: 1_neca
+      - file: 2_jpa
   - caption: Fundamentals
     numbered: True
     chapters:
-      - file: 1_primer
-      - file: 2_fire
-      - file: 3_water
-      - file: 4_road
-      - file: 5_barriers
-      - file: 6_resources
-      - file: 7_authors
+      - file: 3_primer
+      - file: 4_fire
+      - file: 5_water
+      - file: 6_road
+      - file: 7_barriers
+      - file: 8_resources
   - caption: Appendices
-    numbered: True
+    numbered: False
     chapters:
-      - file: references
+      - file: 9_authors
+      - file: bibliography
