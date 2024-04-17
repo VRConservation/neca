@@ -1,5 +1,5 @@
-# Northeast California JPA
+# JPA
 
-CLERE Inc pdf report on JPAs: [CLERE](https://bof.fire.ca.gov/media/sbvcxfiy/cal-frame-jpa-noreast-opr-pilot_final-may122023.pdf)
+CLERE Inc pdf report on JPAs: [CLERE](http://gg.gg/1a1dl4)
 
 ## One pg summary of the CLERE report

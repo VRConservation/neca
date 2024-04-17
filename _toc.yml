@@ -9,7 +9,7 @@ parts:
     chapters:
       - file: 1_neca
       - file: 2_jpa
-  - caption: Con Finance Fundamentals
+  - caption: Con Finance
     numbered: True
     chapters:
       - file: 3_primer
@@ -22,4 +22,5 @@ parts:
     numbered: False
     chapters:
       - file: 9_authors
+      - file: 10_app
       - file: bibliography

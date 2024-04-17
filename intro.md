@@ -30,7 +30,7 @@ More on Conservation Finance can be found at [Conservation Finance Issue Briefs]
 
 The book contains the following chapters:
 
-**1. JPA Finance**. A feasible analysis on sustainably funding the Northeast California Feedstock Aggregation JPA.
+**1. Funding**. A feasible analysis on sustainably funding the Northeast California Feedstock Aggregation JPA.
 
 **2. JPA**. Summary of the CLERE Inc. JPA Report. 
 
@@ -40,7 +40,7 @@ The book contains the following chapters:
 
 **5. Water**. Examples and cases from water and stormwater management.
 
-**6. NE CA Roadmap**. An updated version of the NE California Finance Roadmap and how NE CA can move towards leveraging public funds with private.
+**6. Roadmap**. An updated version of the NE California Finance Roadmap and how NE CA can move towards leveraging public funds with private.
 
 **7. Barriers**. The barriers to conservation finance, in particular, getting beyond their novelty.
 
