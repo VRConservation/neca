@@ -9,7 +9,7 @@ parts:
     chapters:
       - file: 1_neca
       - file: 2_jpa
-  - caption: Fundamentals
+  - caption: Con Finance Fundamentals
     numbered: True
     chapters:
       - file: 3_primer
