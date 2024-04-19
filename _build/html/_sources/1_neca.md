@@ -13,7 +13,7 @@ Partners developing the JPA are clear in the role of the organization acting as 
 4. Consider temporal addition of non-traditional or higher risk revenue sources, but pilot them at small scale first then ramp up with success.
 
 
-## Feasible options
+## Feasible Options
 The JPA steering committee identified the following options as the most promising to provide a steady income stream to run the JPA:
 
 1. **Endowment**. Create an endowment from OPR funding tranche (plus other contributions) invest it conservatively. Interest/gains from the principal fund the JPA. We have assumed the seed funding for the JPA is \$2 mn from OPR with an additional $500,000 from foundation, corporate, and individual contributions.
@@ -23,7 +23,7 @@ The JPA steering committee identified the following options as the most promisin
 5. **Fee for Service**. Example of Western Shasta RCD work with nonindustrial forest owners, provide services for forest mgmt plans with small forested LOs (The State funds the development of FMPs, but landowners cannot secure funds to implement the plans). JPA could create a similar service offering. Need to make sure it's not competing with other RCDs in the region.
 6. **Sort yards**. See pag 6 highlights for costs. Need to do a feasibliity study for this to work.
 
-## Temporal adoption
+## Temporal Adoption
 In general the feasible options identified are traditional and similar to funding approaches for an RCD or nonprofit. 
 
 1. New finance options, such as environmental impact bonds, could be introduced over a longer time-period and trialed at a small scale, then scale up when successful. These could also be other finance mechanisms such as revolving loan funds (with low interest loans), public-private partnerships, or bonds.
@@ -31,17 +31,21 @@ In general the feasible options identified are traditional and similar to fundin
 3. Testing, adoption, and implementation of temporal finance mechanisms is included in the GANTT chart (Figure XX)
   
 ## Budget
-CAL FRAME partners estimated an approximate annual budget to start of \$300,000 based on similar operating expenses for RCDs in the region (Table 1). A detailed line item budget can be found in Appendix 1. 
+CAL FRAME partners estimated an approximate annual budget to start of \$300,000 based on similar operating expenses for RCDs in the region (Table 1). A detailed line item budget can be found in Appendix 1 (**to be added**). 
+ 
+**Table 1**. Three-year JPA budget showing revenue, expenses, and net. Note these are all estimated values. Figures include a 4% inflationary increase year-on-year to adjust for inflation and salary increases.
+
+![budget](https://i.imgur.com/u9R4wfN.png)
 
 ### Revenue
 The revenue amounts are highly on a startup endowment of \$1 million, regular indirect costs to cover operating from grants, and significant fee-for-service to forest landowners and possibly fees charged for use of wood from a sort yard. Ideally, the goal would be to get to a stable revenue source to at least cover staff salaries and a most operational costs. It may be that a multi-year campaign is needed to get to a minimum level (\$2 million is suggested since that could generate \$100,000 annually as an endowment).
 
+More explanatory text and illustrations/examples
+
 ### Expenses
 JPA partners estimated an annual expense budget of \$300,000. This annual expense budget may be thought of as a long-term sustainable budget. In other words, the JPA would not start with a $300,000 budget, rather it may be as much as 1/3 lower than this, likely with fewer staff, then ramp up towards a fully operational targeted amount.
- 
-Table 1. Three-year JPA budget showing revenue, expenses, and net. Note these are all estimated values. Figures include a 4% inflationary increase year-on-year to adjust for inflation and salary increases.
 
-![budget](https://i.imgur.com/u9R4wfN.png)
+More explanatory text...
 
 ## Timeline
 Add an implementation GANTT chart for timing staff, sort yards, and rental/other expenses
@@ -49,4 +53,4 @@ Add an implementation GANTT chart for timing staff, sort yards, and rental/other
 ## Next steps
 1. Refine the revenue and expense numbers
 2. Consider a feasibility study to determine actual revenue from realistic to moon-shot possibilities.
-3. 
+3. Will add more...
