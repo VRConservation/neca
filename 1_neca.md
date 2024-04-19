@@ -33,6 +33,11 @@ In general the feasible options identified are traditional and similar to fundin
 ## Budget
 CAL FRAME partners estimated an approximate annual budget to start of \$300,000 based on similar operating expenses for RCDs in the region (Table 1). A detailed line item budget can be found in Appendix 1 (**to be added**). 
  
+```{admonition} Budget Numbers are Draft
+:class: warning
+More accurate numbers will be updated in the next week
+```
+
 **Table 1**. Three-year JPA budget showing revenue, expenses, and net. Note these are all estimated values. Figures include a 4% inflationary increase year-on-year to adjust for inflation and salary increases.
 
 ![budget](https://i.imgur.com/u9R4wfN.png)
