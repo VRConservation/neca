@@ -30,36 +30,26 @@ In general the feasible options identified are traditional and similar to fundin
 3. Testing, adoption, and implementation of temporal finance mechanisms is included in the GANTT chart (Figure XX)
   
 ## Budget
-CAL FRAME partners estimated an approximate annual budget of \$300,000 based on similar operating expenses for RCDs in the region {numref}`summary`. A detailed line item budget can be found in {ref}`appendix1`.
+CAL FRAME partners estimated an approximate annual budget of \$300,000 based on similar operating expenses for RCDs in the region (Table 1). A detailed line item budget can be found in Appendix 1.
  
 ```{admonition} Budget Numbers are Draft
 :class: warning
 More accurate budget numbers will be updated in subsequent drafts
 ```
 
-```{figure} /figures/summary.png
-:name: summary
-Three-year draft JPA budget showing revenue, expenses, and net. Note these are all estimated values. Figures include a 4% inflationary increase year-on-year to adjust for inflation and salary increases.
-```
+**Table 1**. Three-year JPA budget showing revenue, expenses, and net. Note these are all estimated values. Figures include a 4% inflationary increase year-on-year to adjust for inflation and salary increases.
+
+![budget](https://i.imgur.com/u9R4wfN.png)
 
 ### Revenue
-The revenue amounts are highly on a startup endowment of \$1 million, regular indirect costs to cover operating from grants, and significant fee-for-service to forest landowners and possibly fees charged for use of wood from a sort yard. Ideally, the goal would be to get to a stable revenue source to at least cover staff salaries and most operational costs. It may be that a multi-year campaign is needed to get to a minimum level (\$2 million is suggested since that could generate ~\$100,000 annually as an endowment).
+The revenue amounts are highly on a startup endowment of \$1 million, regular indirect costs to cover operating from grants, and significant fee-for-service to forest landowners and possibly fees charged for use of wood from a sort yard. Ideally, the goal would be to get to a stable revenue source to at least cover staff salaries and most operational costs. It may be that a multi-year campaign is needed to get to a minimum level (\$2 million is suggested since that could generate \$100,000 annually as an endowment).
 
-Contributions and gifts may come from local to regional foundations and from corporations that have an interest in the forest health world. Individual contributions always have the potential to add up to more than foundation and corporate gifts, but take more time to manage. Creating a time-bound campaign with a specific fundraising goal replete with a thermometer to show progress could be a great way to involve communities in the region through giving and create outreach or communications opportunities at the same time to explain the need for the JPA and the importance of sustainable funding from the community to protect homes, infrastructure and forests.
-
-Grants in the budget are those that will not compete with the RCDs. RCDs are reliant on grants from a variety of sources to carry out their work, cover staff salaries, and keep the lights on at the office. Grant resources are limited so a new entity such as the JPA cannot compete for those funds in any way.
-
-On the other hand, the JPA may help administer a large grant across multiple RCDs in order to leverage more funds across a region. With devolution of some state funding sources, this could be a great option to manage those funds and reduce the competition for grant funding resources since the grants solely go to local organizations. The fee-for-service section includes an item for grant administration. It also includes an option for implementing landowner forest plans not only since this may be a viable revenue source, but it may help to source wood for the JPA. A sort yard that the JPA manages to source, centralize, and sell woody biomass is another revenue option, but will require investment to be successful. Expense for the sort yard are include in the expenses section.
-
-```{caution}
-It is critical to incorporate into the JPA's bylaws and revenue generating practices that grant fundraising does not compete with the RCDs in the region. It is possible the JPA may collaborate on a grant with one or more RCDs but should never submit grants for which an RCD qualifies.
-```
+More explanatory text and illustrations/examples
 
 ### Expenses
-JPA partners originall estimated an annual expense budget of ~\$300,000 but the annual budget average for the buddget is ~\$230,000. The total expenses/year slowly ramps up each year of the budget with the idea that with additional secured revnue, that the JPA would bring on more staff capacity and increase offerings, reach, or fee-for-service activities such as additional sort yards.
+JPA partners estimated an annual expense budget of \$300,000. This annual expense budget may be thought of as a long-term sustainable budget. In other words, the JPA would not start with a $300,000 budget, rather it may be as much as 1/3 lower than this, likely with fewer staff, then ramp up towards a fully operational targeted amount.
 
-The bulk of the expenses are for labor/staff that includes an executive director, contracted feedstock manager, administrative bookkeeper, and various contracted services.
-
+More explanatory text...
 
 ## Timeline
 Add an implementation GANTT chart for timing staff, sort yards, and rental/other expenses
