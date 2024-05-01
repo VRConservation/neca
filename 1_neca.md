@@ -56,10 +56,15 @@ It is critical to incorporate into the JPA's bylaws and revenue generating pract
 ```
 
 ### Expenses
-JPA partners originall estimated an annual expense budget of ~\$300,000 but the annual budget average for the buddget is ~\$230,000. The total expenses/year slowly ramps up each year of the budget with the idea that with additional secured revnue, that the JPA would bring on more staff capacity and increase offerings, reach, or fee-for-service activities such as additional sort yards.
+JPA partners original estimated an annual expense budget of ~\$300,000 but the annual budget average for the budget is ~\$230,000. The total expenses/year slowly ramps up each year of the budget with the idea that with additional secured revenue, that the JPA would bring on more staff capacity and increase offerings, reach, or fee-for-service activities such as additional sort yards.
 
-The bulk of the expenses are for labor/staff that includes an executive director, contracted feedstock manager, administrative bookkeeper, and various contracted services.
+The bulk of the expenses are for labor/staff that includes an executive director, contracted feedstock manager, administrative bookkeeper, and various contracted services. Very briefly, the staff responsibilities are the following:
 
+- **Executive Director**. Manage board of directors, lead program development/outreach/education/fundraising/communications, develop annual budget, manage contracts, recruit and manage staff.
+- **Administrative Bookkeeper**. Track/invoice budget, develop cost allocation plan, manage grant reporting, administer payroll, manage AP/AR accounts, prepare 1099s and tax docs, develop grant budgets, ensure financial compliance.
+- **Feedstock Manager**. Source and sell feedstock from public and private lands, arrange transport to sort yard(s), manage sort yards, develop outreach materials, manage and compliance documents for sort yard and aggregation, maintain records.
+
+Other expenses include operations and maintenance as detailed in {ref}`appendix1` such as filing fees, audit/legal fees, insurance, equipment, software, travel, and bank fees. Expenses also include communications, website, and outreach and equiopment, insurance, land lease costs for a sort yard..
 
 ## Timeline
 Add an implementation GANTT chart for timing staff, sort yards, and rental/other expenses
