@@ -67,9 +67,15 @@ The bulk of the expenses are for labor/staff that includes an executive director
 Other expenses include operations and maintenance as detailed in {ref}`appendix1` such as filing fees, audit/legal fees, insurance, equipment, software, travel, and bank fees. Expenses also include communications, website, and outreach and equiopment, insurance, land lease costs for a sort yard..
 
 ## Timeline
-Add an implementation GANTT chart for timing staff, sort yards, and rental/other expenses
+An approximate timeline for key activities to fund and operationalize the JPA is shown in {numref}`gantt`. Endowment seed funding and a capital campaign will be critical to initiate the endowment. Staffing is as described under expenses and shows the approximate start time only for each staff member. Governance will be defined by development of the JPA bylaws and the JPA will created when the LAFCO filing is completed.
+
+```{figure} /figures/gantt.png
+:name: gantt
+GANTT timeline for the JPA startup period.
+```
 
 ## Next steps
-1. Refine the revenue and expense numbers
+1. Refine the revenue and expense numbers with RCDs and JPA core team.
 2. Consider a feasibility study to determine revenue from realistic to moon-shot possibilities.
-3. Will add more...
+3. Examine insurance requirements and costs
+4. Add to timeline?
