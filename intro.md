@@ -51,11 +51,8 @@ The book contains the following chapters:
 The authors offer particular thanks to JoAnna Lessard (Yuba Water Agency,) Todd Sloat (Hat Creek Lumber), Sharmie Stevenson (Fall River & Pit RCD ), Michelle Wolfgang (USFS), Jonas Epstein (USFS), Madison Kirshner (USFS), and Regine Miller (Headwaters Environmental, Inc.).
 
 
-```{note}
-Add other acknowledgements and reviewers
-```
-
 [^1]: Madison Kirshner, USFS, personal communication.
 
+## Table of Contents
 ```{tableofcontents}
 ```
