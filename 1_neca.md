@@ -39,13 +39,13 @@ More accurate budget numbers will be updated in subsequent drafts
 
 ```{figure} /figures/summary.png
 :name: summary
-Three-year draft JPA budget showing revenue, expenses, and net. Note these are all estimated values. Figures include a 4% inflationary increase year-on-year to adjust for inflation and salary increases.
+Three-year draft JPA budget showing revenue, expenses, and net. Note these are all estimated values. Contributions includes passive income based on a \$1 mn seed funded endowment. Figures include a 4% inflationary increase year-on-year to adjust for inflation and salary increases.
 ```
 
 ### Revenue
-The revenue amounts are highly on a startup endowment of \$1 million, regular indirect costs to cover operating from grants, and significant fee-for-service to forest landowners and possibly fees charged for use of wood from a sort yard. Ideally, the goal would be a stable revenue source to cover staff salaries and operational costs. It may be that a multi-year campaign is needed to get to a minimum level (\$2 million is suggested since that could generate ~\$100,000 annually as an endowment).
+The revenue amounts are based on a startup endowment of \$1 million, regular indirect costs to cover operating from grants, and significant fee-for-service to forest landowners and possibly fees charged for use of wood from a sort yard. Ideally, the goal would be a stable revenue source to cover staff salaries and operational costs. It may be that a multi-year campaign is needed to get to a minimum level (\$2 million is suggested since that could generate ~\$100,000 annually as an endowment).
 
-Contributions includes endowment, passive income, gifts, and member contributions. The annual rate assumes a /$1m in seed funding. Contributions and gifts may come from local to regional foundations and from corporations that have an interest in the forest health world. Individual contributions always have the potential to add up to more than foundation and corporate gifts but take more time to manage. Creating a time-bound campaign with a specific fundraising goal replete with a thermometer to show progress could be a great way to involve communities in the region through giving and creating outreach or communications opportunities at the same time to explain the need for the JPA and the importance of sustainable funding from the community to protect homes, infrastructure, and forests.
+Contributions includes endowment, passive income, gifts, and member contributions. Contributions and gifts may come from local to regional foundations and from corporations that have an interest in the forest health world. Individual contributions always have the potential to add up to more than foundation and corporate gifts but take more time to manage. Creating a time-bound campaign with a specific fundraising goal replete with a thermometer to show progress could be a great way to involve communities in the region through giving and creating outreach or communications opportunities at the same time to explain the need for the JPA and the importance of sustainable funding from the community to protect homes, infrastructure, and forests.
 
 Grants in the budget will not compete with the RCDs. RCDs are reliant on grants from various sources to carry out their work, cover staff salaries, and keep the lights on at the office. Grant resources are limited, so a new entity such as the JPA cannot compete for those funds in any way.
 
@@ -64,7 +64,7 @@ The bulk of the expenses are for labor/staff that includes an executive director
 —**Administrative Bookkeeper**. Track/invoice budget, develop cost allocation plan, manage grant reporting, administer payroll, manage AP/AR accounts, prepare 1099s and tax docs, develop grant budgets, and ensure financial compliance.
 —**Feedstock Manager**. Source and sell feedstock from public and private lands, arrange transport to sort yard(s), manage sort yards, develop outreach materials, manage compliance documents for sort yard and aggregation, and maintain records.
 
-Other expenses include operations and maintenance as detailed in {ref}`appendix1`, such as filing fees, audit/legal fees, insurance, equipment, software, travel, and bank fees. Expenses also include communications, website, and outreach and equiopment, insurance, land lease costs for a sort yard..
+Other expenses include operations and maintenance as detailed in {ref}`appendix1`, such as filing fees, audit/legal fees, insurance, equipment, software, travel, and bank fees. Expenses also include communications, website, and outreach and equipment, insurance, land lease costs for a sort yard.
 
 ## Timeline
 An approximate timeline for key activities to fund and operationalize the JPA is shown in {numref}`gantt`. Endowment seed funding and a capital campaign will be critical to initiate the endowment. Staffing is described under expenses and shows the approximate start time for each staff member. Governance will be defined by the development of the JPA bylaws, and the JPA will created when the LAFCO filing is completed.
