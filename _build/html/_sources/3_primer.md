@@ -162,6 +162,4 @@ Endnotes
 
 [^5]: Southern California Association of Governments, Enhanced Infrastructure Financing Districts.
 
-[^6]: For a more complete discussion of these, and other, case studies, see the American Rivers report Because It’s Worth It.
-
-
+[^6]: For a more complete discussion of these, and other, case studies, see [Because It’s Worth It](https://srfadacip.com/wp-content/uploads/2022/05/Because-Its-Worth-It_final.pdf).
