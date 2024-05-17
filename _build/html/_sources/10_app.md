@@ -3,4 +3,4 @@
 (appendix1)=
 ## Appendix 1
 
-![budget detail](https://i.imgur.com/gLHPN3T.png)
+![budget detail](https://i.imgur.com/22x1wog.png)

@@ -31,11 +31,6 @@ In general the feasible options identified are traditional and similar to fundin
   
 ## Budget
 CAL FRAME partners estimated an approximate annual budget of \$300,000 based on similar operating expenses for RCDs in the region {numref}`summary`. A detailed line item budget can be found in {ref}`appendix1`.
- 
-```{admonition} Budget Numbers are Draft
-:class: warning
-More accurate budget numbers will be updated in subsequent drafts
-```
 
 ```{figure} /figures/summary.png
 :name: summary
@@ -46,6 +41,8 @@ Three-year draft JPA budget showing revenue, expenses, and net. Note these are a
 The revenue amounts are based on a startup endowment of \$1 million, regular indirect costs to cover operating from grants, and significant fee-for-service to forest landowners and possibly fees charged for use of wood from a sort yard. Ideally, the goal would be a stable revenue source to cover staff salaries and operational costs. It may be that a multi-year campaign is needed to get to a minimum level (\$2 million is suggested since that could generate ~\$100,000 annually as an endowment). We've made a conservative estimate for the startup endowment, but it's possible the number may be higher but likely not more than double the estimate, e.g., \$2 mn.
 
 Contributions includes endowment, passive income, gifts, and member contributions. Contributions and gifts may come from local to regional foundations and from corporations that have an interest in the forest health world. Individual contributions always have the potential to add up to more than foundation and corporate gifts but take more time to manage. Creating a time-bound campaign with a specific fundraising goal replete with a thermometer to show progress could be a great way to involve communities in the region through giving and creating outreach or communications opportunities at the same time to explain the need for the JPA and the importance of sustainable funding from the community to protect homes, infrastructure, and forests.
+
+Revenue may also be derived from the feedstock supply insurance product currently being developed by members of the CAL FRAME team and Ecostrat. Approximately half of the startup funding could fund this mechanism or a parametric insurance model. These are in process so more details will be provided once ready.
 
 Grants in the budget will not compete with the RCDs. RCDs are reliant on grants from various sources to carry out their work, cover staff salaries, and keep the lights on at the office. Grant resources are limited, so a new entity such as the JPA cannot compete for those funds in any way.
 
