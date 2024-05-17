@@ -31,11 +31,6 @@ In general the feasible options identified are traditional and similar to fundin
   
 ## Budget
 CAL FRAME partners estimated an approximate annual budget of \$300,000 based on similar operating expenses for RCDs in the region {numref}`summary`. A detailed line item budget can be found in {ref}`appendix1`.
- 
-```{admonition} Budget Numbers are Draft
-:class: warning
-More accurate budget numbers will be updated in subsequent drafts
-```
 
 ```{figure} /figures/summary.png
 :name: summary
