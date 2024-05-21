@@ -2,13 +2,8 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: 1_intro
 parts:
-  - caption: JPA
-    numbered: True
-    chapters:
-      - file: 1_neca
-      - file: 2_jpa
   - caption: Con Finance
     numbered: True
     chapters:
@@ -22,5 +17,4 @@ parts:
     numbered: False
     chapters:
       - file: 9_authors
-      - file: 10_app
       - file: bibliography
