@@ -46,7 +46,7 @@ Revenue may also be derived from the feedstock supply insurance product currentl
 Grants in the budget will not compete with the RCDs. RCDs are reliant on grants from various sources to carry out their work, cover staff salaries, and keep the lights on at the office. Grant resources are limited, so a new entity such as the JPA cannot compete for those funds in any way.
 
 ```{admonition} Voluntary Markets & Certification DRAFT TO ADD
-Carbon, water, & biodiversity Markets<br>
+Carbon, water, & biodiversity Markets, nature-based solutions <br>
 Wood product certification
 ```
 
