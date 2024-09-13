@@ -18,6 +18,8 @@ parts:
       - file: 6_road
       - file: 7_barriers
       - file: 8_resources
+      - file: vance
+
   - caption: Appendices
     numbered: False
     chapters:
